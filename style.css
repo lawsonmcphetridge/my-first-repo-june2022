@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+
+h2 {
+    font-family: cursive;
+}
+
+li {
+    background: blueviolet;
+    list-style: none;
+}
+
+li:hover {
+    color: magenta
+}
